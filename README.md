@@ -6,4 +6,4 @@ After installing the python you also need to set your path for python
 
 Download the project from github and open on visual studio code and then open terminal on visual studio code
 
-And run this command <code>python main.py</code> to run normal madLib and to run random madlib run <code>python main.py</code>
+And run this command <code>python main.py</code> to run the project
